@@ -31,4 +31,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           ls
-          sed 's/HOST/host/g' bmd.conf > bmd.yaml
+          sed -e 's/HOST/host/g' bmd.conf > bmd.yaml
