@@ -1,2 +1,2 @@
 payload:
-  DOMAIN-SUFFIX,seagm.com
+  - DOMAIN-SUFFIX,seagm.com
