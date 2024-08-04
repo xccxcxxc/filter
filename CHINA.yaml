@@ -1,3 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD, newsmth
-  - DOMAIN-KEYWORD, mysmth
+  - DOMAIN-KEYWORD,newsmth
+  - DOMAIN-KEYWORD,mysmth
+  - DOMAIN-SUFFIX,mysmth.net
