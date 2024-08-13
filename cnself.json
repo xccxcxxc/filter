@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+      	"www.baidu.com",
+		    "www.163.com"
+      ],
+      "domain_suffix": [
+        "baidu.com",
+  		  "123.com"
+      ],
+      "domain_keyword": [
+      	"baidu"
+      ]
+    }
+  ]
+}
