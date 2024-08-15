@@ -3,8 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "wiki.org",
-        "t-mobile.com"
+        "wiki.org"
       ]
     }
   ]
