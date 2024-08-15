@@ -5,7 +5,7 @@ git pull
 
 # 2. 编译当前目录下的所有JSON文件
 for file in *.json; do
-    sing-box ruls-set compile + "$file"
+    sing-box rule-set compile + "$file"
 done
 
 # 3. 添加新生成的文件到Git
