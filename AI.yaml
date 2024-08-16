@@ -15,6 +15,7 @@ payload:
 - DOMAIN-SUFFIX,deepmind.google
 - DOMAIN-SUFFIX,gemini.google.com
 - DOMAIN-SUFFIX,generativeai.google
+- DOMAIN-SUFFIX,google.dev
 - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
 # NAME: OpenAI
