@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-      	"ai.google.dev",
+	"ai.google.dev",
 	"alkalimakersuite-pa.clients6.google.com",
 	"generativelanguage.googleapis.com",
 	"makersuite.google.com",
@@ -12,7 +12,7 @@
 	"cdn.usefathom.com"
       ],
       "domain_suffix": [
-        "anthropic.com",
+	"anthropic.com",
 	"claude.ai",
 	"ai.com",
 	"algolia.net",
@@ -23,7 +23,7 @@
 	"client-api.arkoselabs.com",
 	"events.statsigapi.net",
 	"featuregates.org",
-"google.dev",
+	"google.dev",
 	"host.livekit.cloud",
 	"identrust.com",
 	"intercom.io",
