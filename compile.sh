@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd  /home/zg/filter/
 # 1. 从GitHub拉取最新代码
 git pull
 
