@@ -1,0 +1,28 @@
+
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+          "bybit",
+          "nexo"
+      ],
+      "domain_suffix": [
+          "byd3c3.com",
+          "bybdc6.com",
+          "appsflayer.com",
+          "binance.cloud",
+          "binance.com",
+          "binance.me",
+          "binancecnt.com",
+          "binancefuture.com",
+          "bnappzh.co",
+          "bnbstatic.com",
+          "bnbzh.ac",
+          "bntrace.com",
+          "saasexch.cc",
+          "saasexch.com"
+      ]
+    }
+  ]
+}
