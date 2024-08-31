@@ -4,6 +4,10 @@
     {
       "domain": [
       	"www.baidu.com"
+      ],
+      "domain_suffix": [
+          "115.com",
+          "jsdelivr.net
       ]
     }
   ]
