@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,newsmth
   - DOMAIN-KEYWORD,mysmth
-  - DOMAIN-SUFFIX,mysmth.net
+  - DOMAIN-SUFFIX,bjciq.com
   - DOMAIN-SUFFIX,115.com
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,mysmth.net
