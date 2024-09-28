@@ -8,15 +8,3 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,mysmth.net
 
-
-  # apple
-  - DOMAIN,www-cdn.icloud.com.akadns.net
-  - DOMAIN-SUFFIX,aaplimg.com
-  - DOMAIN-SUFFIX,apple-cloudkit.com
-  - DOMAIN-SUFFIX,apple.co
-  - DOMAIN-SUFFIX,apple.com.cn
-  - DOMAIN-SUFFIX,appstore.com
-  - DOMAIN-SUFFIX,cdn-apple.com
-  - DOMAIN-SUFFIX,crashlytics.com
-  - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,icloud.com.cn
