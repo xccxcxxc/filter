@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,mysmth.net
 
-  - PROCESS-NAME-REGEX,.*winbull.*,DIRECT
+  - PROCESS-NAME-REGEX,.*winbull.*
