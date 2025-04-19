@@ -3,10 +3,14 @@ payload:
   - DOMAIN-KEYWORD,customs
   - DOMAIN-KEYWORD,newsmth
   - DOMAIN-KEYWORD,mysmth
+
+  
   
   - DOMAIN-SUFFIX,bjciq.com
   - DOMAIN-SUFFIX,115.com
   - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,mysmth.net
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,126.net
 
   - PROCESS-NAME-REGEX,.*winbull.*
