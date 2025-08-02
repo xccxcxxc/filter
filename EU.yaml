@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,bybit
   - DOMAIN-KEYWORD,nexo
+  - DOMAIN-KEYWORD,bitget
   - DOMAIN-SUFFIX,byd3c3.com
   - DOMAIN-SUFFIX,bybdc6.com
   - DOMAIN-SUFFIX,byapps.net
