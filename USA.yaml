@@ -1,6 +1,13 @@
 payload:
   - DOMAIN-SUFFIX,metrobyt-mobile.com
+
+  # 腾讯出的盛世天下游戏
+  - DOMAIN-SUFFIX,itopsdk.com
+
+  # 购买 tng 充值卡
   - DOMAIN-SUFFIX,seagm.com
+
+  # t-mobile wifi calling
   - DOMAIN-SUFFIX,t-mobile.com
   - DOMAIN-SUFFIX,t-mo.cc
  
